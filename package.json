@@ -1,0 +1,23 @@
+{
+  "name": "wheel-factory",
+  "version": "1.0.0",
+  "description": "An intereting wheel factory",
+  "main": "index.js",
+  "private": true,
+  "workspaces":[
+    "packages/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FE92star/wheel-factory.git"
+  },
+  "author": "Bob <1737765939@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FE92star/wheel-factory/issues"
+  },
+  "homepage": "https://github.com/FE92star/wheel-factory#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}

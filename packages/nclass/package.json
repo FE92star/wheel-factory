@@ -1,0 +1,33 @@
+{
+  "name": "nclass",
+  "version": "1.0.0",
+  "description": "符合ES规范的class类工厂",
+  "keywords": [
+    "class",
+    "ES"
+  ],
+  "author": "maobao <maobao@duiba.com.cn>",
+  "homepage": "https://github.com/FE92star/wheel-factory/tree/main/packages/nclass#readme",
+  "license": "MIT",
+  "main": "lib/nclass.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://npm.dui88.com:80/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FE92star/wheel-factory.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/FE92star/wheel-factory/issues"
+  }
+}

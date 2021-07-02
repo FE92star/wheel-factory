@@ -1,0 +1,33 @@
+{
+  "name": "njade",
+  "version": "1.0.0",
+  "description": "模板引擎",
+  "keywords": [
+    "engine",
+    "template"
+  ],
+  "author": "maobao <maobao@duiba.com.cn>",
+  "homepage": "https://github.com/FE92star/wheel-factory/tree/main/packages/njade#readme",
+  "license": "MIT",
+  "main": "lib/njade.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://npm.dui88.com:80/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FE92star/wheel-factory.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/FE92star/wheel-factory/issues"
+  }
+}
